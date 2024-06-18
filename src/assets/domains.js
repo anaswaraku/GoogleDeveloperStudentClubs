@@ -1,6 +1,6 @@
-import flutter from './domain1.png'
+import flutter from './flutterlogo.png'
 import cloud from "./domain2.png";
-import other from "./domain3.png";
+import htmlcssjs from "./htmlcssjs.png"
 export const assets={
-    flutter,cloud,other
+    flutter,cloud,htmlcssjs
 }

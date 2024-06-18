@@ -1,5 +1,4 @@
 .container{
-  background-color: black;
   width: 100%;
 }
 .card-grid {
@@ -8,10 +7,8 @@
   grid-template-rows: repeat(2, 1fr); /* 2 rows with equal height */
   gap: 10px;
   width: 90%;
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 20px;
-  background-color: black;
 }
 
 .yu{

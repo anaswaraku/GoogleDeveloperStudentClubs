@@ -6,10 +6,7 @@
   font-family: Outfit;
   
 }
-body{
-  min-height: 100vh;
-  background-color: rgba(0, 0, 0, 0.825);
-}
+
 a{
   text-decoration: none;
   color: inherit;
