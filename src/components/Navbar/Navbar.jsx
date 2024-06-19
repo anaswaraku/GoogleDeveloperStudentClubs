@@ -1,12 +1,12 @@
-import React from 'react'
-import './Navbar.css'
-import { assets } from '../../assets/assets'
+import React from "react";
+import "./Navbar.css";
+import { assets } from "../../assets/assets";
 
 const Navbar = () => {
   return (
-    <nav className="navbar">
+    <nav className="navbar bg-white z-10">
       <div className="navbar-logo">
-        <img src={assets.gdsclogo}alt="Logo" />
+        <img src={assets.gdsclogo} alt="Logo" />
       </div>
       <div className="navbar-links">
         <a href="">Home</a>
@@ -16,6 +16,6 @@ const Navbar = () => {
       </div>
     </nav>
   );
-}
+};
 
-export default Navbar
+export default Navbar;

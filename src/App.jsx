@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Mainhead from "./components/Main-head/Main-head";
 import About from "./components/About/About";
